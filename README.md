@@ -227,7 +227,7 @@ pip install pandas numpy matplotlib pmdarima statsmodels scikit-learn
 │   ├── predictions.csv           # Optional: saved forecasts/residuals
 │   ├── anomalies.csv             # Optional: saved anomaly indices
 │   └── plots/                    # Saved figures
-└── README_rolling_auto_arima.md  # This file
+└── README.md  # This file
 ```
 
 ---
